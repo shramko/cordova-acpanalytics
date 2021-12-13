@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="cordova-acpanalytics"
+<plugin id="cordova-acpanalytics-fork"
         version="0.0.1"
         xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android">
-    <name>cordova-acpanalytics</name>
+    <name>cordova-acpanalytics-fork</name>
     <description>ACPAnalytics Plugin for Cordova</description>
     <license>Apache 2.0</license>
     <keywords>cordova,adobe,analytics,acpanalytics,marketing</keywords>
 
     <!-- use "ACPAnalytics" to access the plugin APIs in javascript -->
-    <js-module name="cordova-acpanalytics" src="www/ACPAnalytics.js">
+    <js-module name="cordova-acpanalytics-fork" src="www/ACPAnalytics.js">
         <clobbers target="ACPAnalytics" />
     </js-module>
 

@@ -1,9 +1,9 @@
 {
-  "name": "@adobe/cordova-acpanalytics",
+  "name": "cordova-acpanalytics-fork",
   "version": "0.0.1",
-  "description": "Adobe Experience Platform - Analytics plugin for Cordova apps.",
+  "description": "Adobe Experience Platform - Analytics plugin for Cordova apps (fork from https://github.com/adobe/cordova-acpanalytics).",
   "cordova": {
-    "id": "cordova-acpanalytics",
+    "id": "cordova-acpanalytics-fork",
     "platforms": [
       "android",
       "ios"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adobe/cordova-acpanalytics"
+    "url": "https://github.com/shramko/cordova-acpanalytics"
   },
   "keywords": [
     "ecosystem:cordova",
