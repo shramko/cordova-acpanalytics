@@ -1,6 +1,6 @@
 {
   "name": "cordova-acpanalytics-fork",
-  "version": "0.0.1",
+  "version": "1.0.5",
   "description": "Adobe Experience Platform - Analytics plugin for Cordova apps (fork from https://github.com/adobe/cordova-acpanalytics).",
   "cordova": {
     "id": "cordova-acpanalytics-fork",
