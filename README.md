@@ -30,7 +30,7 @@ sudo npm install -g cordova
 
 To start using the Analytics plugin for Cordova, navigate to the directory of your Cordova app and install the plugin:
 ```
-cordova plugin add https://github.com/adobe/cordova-acpanalytics.git
+cordova plugin add cordova-acpanalytics-fork
 ```
 Check out the documentation for help with APIs
 
